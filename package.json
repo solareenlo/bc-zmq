@@ -1,0 +1,17 @@
+{
+  "name": "bc-zmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["zmq", "Bitcoin"],
+  "author": "solareenlo",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^5.0.1",
+    "dotenv": "^7.0.0",
+    "zeromq": "^5.1.0"
+  }
+}
