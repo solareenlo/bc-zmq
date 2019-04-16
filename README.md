@@ -3,7 +3,7 @@
 
 ### Usage
 ```bash
-git clone
+git clone git@github.com:solareenlo/bc-zmq.git
 cd bc-zmq
 // .env_ezampleを参考に, .envを作って, その中にBitcoinのアドレスを代入する.
 yarn or npm install
